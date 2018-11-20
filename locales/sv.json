@@ -1,0 +1,69 @@
+{
+  "title": "Minervawikins status",
+  "description": "Status för minervawikin",
+  "labels": {
+    "contact": "Kontakt",
+    "support": "Support",
+    "home": "Hem",
+    "powered-by": "Powered by"
+  },
+  "statuses": {
+    "under-maintenance": "Underhåll",
+    "degraded-performance": "Nedsatt Prestanda",
+    "partial-outage": "Delvis Nere",
+    "major-outage": "Helt Nere",
+    "operational": "Tillgänglig"
+  },
+  "dates": {
+    "formats": {
+      "short": "YYYY-MM-DD",
+      "long": "YYYY-MM-DD HH:mm Z",
+      "month": "MMMM YYYY"
+    }
+  },
+  "incidents": {
+    "incidents": "Incidenter",
+    "incident": "Incident",
+    "incidents-history": "Historik",
+    "incidents-history-description": "Nuvarande och historiska incidenter.",
+    "latest-incidents": "Senaste incidenterna",
+    "current-status": "Nuvarande status",
+    "current-status-description": "Håll dig uppdaterad kring incidenter.",
+    "no-incidents": "Inga incidenter rapporterade.",
+    "resolved": "Löst",
+    "unresolved": "Olöst",
+    "paginator": {
+      "previous": "Föregående sida",
+      "next": "Nästa sida",
+      "page": "Sida"
+    },
+    "collapse": {
+      "show": "Visa alla {count} incidenter",
+      "hide": "Visa färre incidenter"
+    }
+  },
+  "error": {
+    "go-back-link": "Tillbaka till hem",
+    "404": {
+      "title": "Sidan ej funnen",
+      "description": "Sidan du letade efter hittades ej"
+    },
+    "other": {
+      "title": "Ett fel har uppstått",
+      "description": "Vi beklagar, men vi kan ej fullfölja din request"
+    }
+  },
+  "offline": {
+    "title": "Du är offline",
+    "subtitle": "Vi beklagar!",
+    "description": "Vi kunde ej ladda sidan du frågade efter, vänligen kontrollera din nätverksstatus och försök igen."
+  },
+  "systems": {
+    "items": {
+      "mediawiki": {
+          "title": "Mediawiki",
+          "description": "Hemsidan"
+      }
+    }
+  }
+}
